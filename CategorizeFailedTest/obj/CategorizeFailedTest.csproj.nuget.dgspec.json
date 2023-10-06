@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Shivam.Pathak\\source\\repos\\AIGeneratedTestCatorization\\CategorizeFailedTest\\CategorizeFailedTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Shivam.Pathak\\source\\repos\\AIGeneratedTestCatorization\\CategorizeFailedTest\\CategorizeFailedTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shivam.Pathak\\source\\repos\\AIGeneratedTestCatorization\\CategorizeFailedTest\\CategorizeFailedTest.csproj",
+        "projectName": "CategorizeFailedTest",
+        "projectPath": "C:\\Users\\Shivam.Pathak\\source\\repos\\AIGeneratedTestCatorization\\CategorizeFailedTest\\CategorizeFailedTest.csproj",
+        "packagesPath": "C:\\Users\\Shivam.Pathak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shivam.Pathak\\source\\repos\\AIGeneratedTestCatorization\\CategorizeFailedTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shivam.Pathak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Repos\\Frmwork\\Feature\\FRWKAUTMTN-14\\ari-specflow-framework\\ARITestFramework\\ARIDotNetCoreAutomationFrameWork\\bin\\Debug": {},
+          "http://duldevbuild01.mad.arinet.com:8050/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ConsoleTables": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.2.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
